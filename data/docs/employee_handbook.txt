@@ -1,0 +1,13 @@
+XYZ Corporation Employee Handbook
+
+Welcome to XYZ Corporation. This document outlines your rights, responsibilities, and benefits.
+
+Working Hours: 9:00 AM - 6:00 PM
+Leave Policy:
+- Annual Paid Leaves: 18 days
+- Sick Leaves: 10 days
+- Work From Home: Maximum 4 days per month (Manager approval needed)
+
+IT Security:
+- Password change mandatory every 60 days.
+- No sharing of confidential files externally.

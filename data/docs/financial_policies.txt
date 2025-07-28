@@ -1,0 +1,13 @@
+Financial Policies - XYZ Corporation
+
+Reimbursement:
+- All expenses require prior approval.
+- Travel allowance: ₹2000/day for domestic trips.
+
+Procurement:
+- Hardware purchases above ₹50,000 require CFO approval.
+- Vendor invoices must be cleared within 30 days.
+
+Audit Schedule:
+- Internal audits: Every Quarter
+- External audits: Annual (March)

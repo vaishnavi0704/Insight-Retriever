@@ -1,0 +1,6 @@
+EmployeeID, Name, Department, Designation, Email, Location
+E001, Alice Smith, HR, Manager, alice.smith@xyz.com, Mumbai
+E002, Bob Johnson, IT, Security Analyst, bob.johnson@xyz.com, Delhi
+E003, Charlie Lee, Finance, Accountant, charlie.lee@xyz.com, Bangalore
+E004, Diana Prince, IT, Software Engineer, diana.prince@xyz.com, Mumbai
+E005, Ethan Hunt, Operations, Supervisor, ethan.hunt@xyz.com, Chennai
